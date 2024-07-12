@@ -4,7 +4,7 @@ This project implements a fast circle detection algorithm in C++. The  algorithm
 
 <img src="assets/circle_detection_target_xbox.png" alt="circle detection target" width="100%" height="auto">
 
-[fats circle detector cuda](assets/circle_detection_target_xbox.png)
+[](assets/assets/circle_detector_xbox_720.mp4)
 
 <!-- video src="assets/circle_detector_xbox_720.mp4"></video -->
 
