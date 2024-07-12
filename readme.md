@@ -5,6 +5,7 @@ This project implements a fast circle detection algorithm in C++. The  algorithm
 <img src="assets/circle_detection_target.png" alt="circle detection target" width="auto" height="200px">
 <img src="assets/circle_detection_xbox.png" alt="circle detection xbox" width="auto" height="200px">
 
+
 ## Overview
 
 The Circle Detector project includes:
