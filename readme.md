@@ -2,7 +2,7 @@
 
 This project implements a fast circle detection algorithm in C++. The  algorithm can be run either on the CPU (with openmp) or GPU (CUDA).
 
-<img src="assets/circle_detection_target.png" alt="circle detection target" width="auto" height="200px"><img src="assets/circle_detection_xbox.png" alt="circle detection xbox" width="auto" height="200px">
+<img src="assets/circle_detection_target.png" alt="circle detection target" width="auto" height="250px"><img src="assets/circle_detection_xbox.png" alt="circle detection xbox" width="auto" height="250px">
 
 
 ## Overview
