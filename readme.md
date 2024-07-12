@@ -4,15 +4,15 @@ This project implements a fast circle detection algorithm in C++. The  algorithm
 
 <img src="assets/circle_detection_target_xbox.png" alt="circle detection target" width="100%" height="auto">
 
-[](assets/assets/circle_detector_xbox_720.mp4)
+<!-- [](assets/assets/circle_detector_xbox_720.mp4) -->
 
-<!-- video src="assets/circle_detector_xbox_720.mp4"></video -->
+<!-- <video src="assets/circle_detector_xbox_720.mp4"></video> -->
 
 <!-- figure class="video_container"> <iframe src="assets/circle_detector_xbox_720.mp4" frameborder="0" allowfullscreen="true">  </iframe> </figure -->
 
-<!-- <video width="100%" height="auto" controls>
+<video width="100%" height="auto" controls>
   <source src="assets/circle_detector_xbox_720.mp4" type="video/mp4">
-</video> -->
+</video>
 
 ## Overview
 
